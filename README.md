@@ -1,5 +1,5 @@
 # gameswithgold
 
-Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+Email alerts when Microsoft release new free Games with Gold
 
 Auto commited via [Mixture](http://mixture.io)
